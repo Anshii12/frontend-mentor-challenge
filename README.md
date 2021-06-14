@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://anshii12.github.io/frontend-mentor-challenge/)
 
 ## My process
 
@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/) - This helped me in learning about flexbox and transform properties more. I really liked this pattern and will use it going forward.
+-(https://developer.mozilla.org/en-US/docs/Web/) - This helped me in learning about flexbox and transform properties more. I really liked this pattern and will use it going forward.
 
 ## Author
 
